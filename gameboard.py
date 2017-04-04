@@ -1,8 +1,8 @@
-import os
-import pygame
+import sys
 import random
-
+import pygame
 import ant
+import os
 
 __author__ = 'jezinka'
 
